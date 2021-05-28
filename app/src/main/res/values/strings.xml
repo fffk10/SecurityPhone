@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AntiTheftApp</string>
+    <string name="stop_text">alarm 解除中</string>
+    <string name="start_text">alarm セット中</string>
+</resources>
